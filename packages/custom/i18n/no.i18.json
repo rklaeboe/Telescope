@@ -1,0 +1,8 @@
+{
+  "customViewLink" : "Lenke eget oppslagsvindu",
+  "customAdminLink" : "Lenke egen administrasjon",
+  "customPostField" : "Egnedefinert posteringsfelt",
+  "customCommentField" : "Egendefinert kommentarfelt",
+  "customUserField" : "Egendefinert brukerfelt",
+  "customSettingsField" : "Egendefinert oppsettsfelt"
+}
