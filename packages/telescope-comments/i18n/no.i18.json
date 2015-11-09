@@ -1,5 +1,14 @@
 {
+  "sorry_you_cannot_edit_this_comment" : "Beklager, men du kan ikke endre denne kommentaren",
+  "your_comment_has_been_deleted" : "Kommentaren din har blitt slettet.",
+  "comment_" : "Kommentar",
+  "delete_comment" : "Fjern kommentar",
   "add_comment" : "Legg til kommentar",
+  "upvote" : "Stem fram",
+  "downvote" : "Stem ned",
   "link" : "lenke",
-  "reply" : "Svar"
+  "edit" : "Endre",
+  "reply" : "Svar",
+  "no_comments" : "Ingen kommentarer",
+  "please_sign_in_to_reply" : "Logg inn for å svare"
 }
